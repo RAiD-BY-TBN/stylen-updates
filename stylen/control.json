@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "icon": "default",
+  "maintenance": {
+    "enabled": false,
+    "message": ""
+  },
+  "updatedAt": "2026-10-12T01:08:15Z"
+}
