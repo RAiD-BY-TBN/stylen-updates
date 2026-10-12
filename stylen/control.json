@@ -2,10 +2,10 @@
   "schema": 1,
   "icon": "gold",
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "message": "Trabalhando em atualizações."
   },
-  "updatedAt": "2026-10-12T04:47:35Z",
+  "updatedAt": "2026-10-12T05:20:58Z",
   "announcement": {
     "id": "1791780294609",
     "title": "Oi",
