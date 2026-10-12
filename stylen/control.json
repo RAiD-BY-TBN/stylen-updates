@@ -2,8 +2,8 @@
   "schema": 1,
   "icon": "emerald",
   "maintenance": {
-    "enabled": false,
-    "message": ""
+    "enabled": true,
+    "message": "Trabalhando em atualizações."
   },
-  "updatedAt": "2026-10-12T01:08:50Z"
+  "updatedAt": "2026-10-12T01:09:14Z"
 }
