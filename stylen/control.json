@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "icon": "emerald",
+  "icon": "default",
   "maintenance": {
     "enabled": false,
     "message": "Trabalhando em atualizações."
   },
-  "updatedAt": "2026-10-12T02:51:02Z",
+  "updatedAt": "2026-10-12T03:42:51Z",
   "announcement": {
     "id": "1791768218979",
     "title": "Oi",
