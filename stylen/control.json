@@ -2,10 +2,10 @@
   "schema": 1,
   "icon": "sunset",
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "message": "Trabalhando em atualizações."
   },
-  "updatedAt": "2026-10-12T05:24:24Z",
+  "updatedAt": "2026-10-12T05:24:27Z",
   "announcement": {
     "id": "1791780294609",
     "title": "Oi",
