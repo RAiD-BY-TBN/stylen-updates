@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "icon": "light",
+  "icon": "gold",
   "maintenance": {
     "enabled": false,
     "message": "Trabalhando em atualizações."
   },
-  "updatedAt": "2026-10-12T01:19:25Z",
+  "updatedAt": "2026-10-12T01:19:46Z",
   "announcement": {
     "id": "",
     "title": "",
