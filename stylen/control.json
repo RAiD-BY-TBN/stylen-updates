@@ -2,10 +2,10 @@
   "schema": 1,
   "icon": "default",
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "message": "Corrigindo bugs, otimizações, exibição de letras entre outros."
   },
-  "updatedAt": "2026-10-12T06:11:37Z",
+  "updatedAt": "2026-10-12T06:21:38Z",
   "announcement": {
     "id": "1791782789768",
     "title": "Atualização Concluída",
