@@ -5,11 +5,32 @@
     "enabled": false,
     "message": "Trabalhando em atualizações."
   },
-  "updatedAt": "2026-10-12T01:16:54Z",
+  "updatedAt": "2026-10-12T01:18:40Z",
   "announcement": {
     "id": "1791767814085",
     "title": "Teste",
     "message": "Letras em correção",
     "url": ""
-  }
+  },
+  "app": {
+    "packageName": "com.htmltoapk.mp3onlineplayertest.bgfix",
+    "versionCode": 214,
+    "versionName": "2.14",
+    "apkUrl": "https://github.com/RAiD-BY-TBN/stylen-updates/releases/download/v2.14/StylenMusics-2.14.apk",
+    "sha256": "18b3b963d36d55114905583442421b7e8b2ab2137feb9675c3ea8869bffc8846",
+    "size": 6626080,
+    "changelog": "Correções de letras etc",
+    "force": true,
+    "minVersionCode": 0,
+    "publishedAt": "2026-10-12T01:18:40Z"
+  },
+  "history": [
+    {
+      "versionCode": 214,
+      "versionName": "2.14",
+      "apkUrl": "https://github.com/RAiD-BY-TBN/stylen-updates/releases/download/v2.14/StylenMusics-2.14.apk",
+      "changelog": "Correções de letras etc",
+      "publishedAt": "2026-10-12T01:18:40Z"
+    }
+  ]
 }
