@@ -32,11 +32,5 @@
       "changelog": "Correções de letras etc",
       "publishedAt": "2026-10-12T01:18:40Z"
     }
-  ],
-  "theme": {
-    "enabled": true,
-    "name": "custom",
-    "primary": "#940000",
-    "secondary": "#B65252"
-  }
+  ]
 }
