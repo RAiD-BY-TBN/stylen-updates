@@ -1,6 +1,11 @@
 {
   "songs": [
     {
+      "id": "rpiSdGIhu0E",
+      "title": "SEM MALDADE",
+      "artist": "Lunaughty"
+    },
+    {
       "id": "ogxUGtlAq18",
       "title": "BRABA",
       "artist": "Luísa Sonza"
@@ -15,5 +20,6 @@
       "title": "a última dança (Official Video)",
       "artist": "Link do Zap & Pluglip"
     }
-  ]
+  ],
+  "schema": 1
 }
