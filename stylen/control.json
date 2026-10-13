@@ -5,24 +5,12 @@
     "enabled": false,
     "message": "Corrigindo bugs, otimizações, exibição de letras entre outros."
   },
-  "updatedAt": "2026-10-13T22:56:25Z",
+  "updatedAt": "2026-10-13T23:14:57Z",
   "announcement": {
     "id": "",
     "title": "",
     "message": "",
     "url": ""
-  },
-  "app": {
-    "packageName": "com.htmltoapk.mp3onlineplayertest.bgfix",
-    "versionCode": 222,
-    "versionName": "2.22",
-    "apkUrl": "https:\/\/github.com\/RAiD-BY-TBN\/stylen-updates\/releases\/download\/v2.22\/StylenMusics-2.22.apk",
-    "sha256": "f72299db3971a0556a59efe04b0e7d996721ede8b1cc99883ebc1ffadb0c700f",
-    "size": 6652538,
-    "changelog": "Melhorias e correções.",
-    "force": false,
-    "minVersionCode": 0,
-    "publishedAt": "2026-10-13T22:56:24Z"
   },
   "history": [
     {
