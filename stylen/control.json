@@ -36,7 +36,7 @@
   "theme": {
     "enabled": true,
     "name": "custom",
-    "primary": "#3D3DF5",
-    "secondary": "#7B7BF8"
+    "primary": "#940000",
+    "secondary": "#B65252"
   }
 }
