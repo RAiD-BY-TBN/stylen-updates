@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "icon": "light",
+  "icon": "violet",
   "maintenance": {
     "enabled": false,
     "message": "Corrigindo bugs, otimizações, exibição de letras entre outros."
   },
-  "updatedAt": "2026-10-13T04:44:15Z",
+  "updatedAt": "2026-10-13T22:55:10Z",
   "announcement": {
     "id": "",
     "title": "",
@@ -16,7 +16,7 @@
     "packageName": "com.htmltoapk.mp3onlineplayertest.bgfix",
     "versionCode": 214,
     "versionName": "2.14",
-    "apkUrl": "https://github.com/RAiD-BY-TBN/stylen-updates/releases/download/v2.14/StylenMusics-2.14.apk",
+    "apkUrl": "https:\/\/github.com\/RAiD-BY-TBN\/stylen-updates\/releases\/download\/v2.14\/StylenMusics-2.14.apk",
     "sha256": "18b3b963d36d55114905583442421b7e8b2ab2137feb9675c3ea8869bffc8846",
     "size": 6626080,
     "changelog": "Correções de letras etc",
@@ -28,7 +28,7 @@
     {
       "versionCode": 214,
       "versionName": "2.14",
-      "apkUrl": "https://github.com/RAiD-BY-TBN/stylen-updates/releases/download/v2.14/StylenMusics-2.14.apk",
+      "apkUrl": "https:\/\/github.com\/RAiD-BY-TBN\/stylen-updates\/releases\/download\/v2.14\/StylenMusics-2.14.apk",
       "changelog": "Correções de letras etc",
       "publishedAt": "2026-10-12T01:18:40Z"
     }
