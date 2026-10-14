@@ -5,7 +5,7 @@
     "enabled": false,
     "message": "Corrigindo bugs, otimizações, exibição de letras entre outros."
   },
-  "updatedAt": "2026-10-14T03:53:39Z",
+  "updatedAt": "2026-10-14T04:37:16Z",
   "announcement": {
     "id": "",
     "title": "",
@@ -13,6 +13,13 @@
     "url": ""
   },
   "history": [
+    {
+      "versionCode": 229,
+      "versionName": "2.29",
+      "apkUrl": "https:\/\/github.com\/RAiD-BY-TBN\/stylen-updates\/releases\/download\/v2.29\/StylenMusics-2.29.apk",
+      "changelog": "As playlists agora tem o fundo na cor da capa.\nAs barrinhas da música tocando se movem em qualquer configuração de animação e acompanham a batida quando o app consegue ler o áudio.\nO gesto de voltar do Android agora volta dentro do app.",
+      "publishedAt": "2026-10-14T04:37:16Z"
+    },
     {
       "versionCode": 222,
       "versionName": "2.22",
@@ -27,5 +34,17 @@
       "changelog": "Correções de letras etc",
       "publishedAt": "2026-10-12T01:18:40Z"
     }
-  ]
+  ],
+  "app": {
+    "packageName": "com.htmltoapk.mp3onlineplayertest.bgfix",
+    "versionCode": 229,
+    "versionName": "2.29",
+    "apkUrl": "https:\/\/github.com\/RAiD-BY-TBN\/stylen-updates\/releases\/download\/v2.29\/StylenMusics-2.29.apk",
+    "sha256": "86be570037bb70bb452b2962cd9440602af2af71d64fe86082943a137d21f97b",
+    "size": 7134691,
+    "changelog": "As playlists agora tem o fundo na cor da capa.\nAs barrinhas da música tocando se movem em qualquer configuração de animação e acompanham a batida quando o app consegue ler o áudio.\nO gesto de voltar do Android agora volta dentro do app.",
+    "force": false,
+    "minVersionCode": 0,
+    "publishedAt": "2026-10-14T04:37:16Z"
+  }
 }
