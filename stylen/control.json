@@ -5,7 +5,7 @@
     "enabled": false,
     "message": "Corrigindo bugs, otimizações, exibição de letras entre outros."
   },
-  "updatedAt": "2026-10-14T02:30:33Z",
+  "updatedAt": "2026-10-14T02:30:44Z",
   "announcement": {
     "id": "",
     "title": "",
@@ -27,12 +27,5 @@
       "changelog": "Correções de letras etc",
       "publishedAt": "2026-10-12T01:18:40Z"
     }
-  ],
-  "popup": {
-    "enabled": true,
-    "id": "1791945033915",
-    "title": "Teste",
-    "message": "Aviso para teste",
-    "url": ""
-  }
+  ]
 }
