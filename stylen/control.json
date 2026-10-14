@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "icon": "crimson",
+  "icon": "ocean",
   "maintenance": {
     "enabled": false,
     "message": "Corrigindo bugs, otimizações, exibição de letras entre outros."
   },
-  "updatedAt": "2026-10-14T03:53:32Z",
+  "updatedAt": "2026-10-14T03:53:39Z",
   "announcement": {
     "id": "",
     "title": "",
