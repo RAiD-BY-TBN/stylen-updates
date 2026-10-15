@@ -5,7 +5,7 @@
     "enabled": false,
     "message": "Corrigindo bugs, otimizações, exibição de letras entre outros."
   },
-  "updatedAt": "2026-10-15T04:54:00Z",
+  "updatedAt": "2026-10-15T05:06:18Z",
   "announcement": {
     "id": "",
     "title": "",
@@ -13,6 +13,13 @@
     "url": ""
   },
   "history": [
+    {
+      "versionCode": 235,
+      "versionName": "2.35",
+      "apkUrl": "https:\/\/github.com\/RAiD-BY-TBN\/stylen-updates\/releases\/download\/v2.35\/StylenMusics-2.35.apk",
+      "changelog": "Correções Visuais, Correções de Bugs, Otimizações em geral,  Correção do Modo Sync (Antigo Jam)!.",
+      "publishedAt": "2026-10-15T05:06:17Z"
+    },
     {
       "versionCode": 230,
       "versionName": "2.30",
@@ -44,15 +51,15 @@
   ],
   "app": {
     "packageName": "com.htmltoapk.mp3onlineplayertest.bgfix",
-    "versionCode": 230,
-    "versionName": "2.30",
-    "apkUrl": "https:\/\/github.com\/RAiD-BY-TBN\/stylen-updates\/releases\/download\/v2.30\/StylenMusics-2.30.apk",
-    "sha256": "bb4ad5ab19c84fe908af0c431910c928927bd3d27ab0529eb92efe2334821feb",
-    "size": 6996077,
-    "changelog": "Funcionalidade Jam (compartilhar playlist com amigos)",
+    "versionCode": 235,
+    "versionName": "2.35",
+    "apkUrl": "https:\/\/github.com\/RAiD-BY-TBN\/stylen-updates\/releases\/download\/v2.35\/StylenMusics-2.35.apk",
+    "sha256": "00450d696359e6c1f022734da5d6e1e4abaeb19df1240b43f6f14132832cdb26",
+    "size": 7020669,
+    "changelog": "Correções Visuais, Correções de Bugs, Otimizações em geral,  Correção do Modo Sync (Antigo Jam)!.",
     "force": false,
     "minVersionCode": 0,
-    "publishedAt": "2026-10-14T13:01:48Z"
+    "publishedAt": "2026-10-15T05:06:17Z"
   },
   "infoVersion": "2.29"
 }
