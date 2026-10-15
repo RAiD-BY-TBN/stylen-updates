@@ -5,7 +5,7 @@
     "enabled": false,
     "message": "Corrigindo bugs, otimizações, exibição de letras entre outros."
   },
-  "updatedAt": "2026-10-15T05:06:18Z",
+  "updatedAt": "2026-10-15T05:14:34Z",
   "announcement": {
     "id": "",
     "title": "",
@@ -49,17 +49,5 @@
       "publishedAt": "2026-10-12T01:18:40Z"
     }
   ],
-  "app": {
-    "packageName": "com.htmltoapk.mp3onlineplayertest.bgfix",
-    "versionCode": 235,
-    "versionName": "2.35",
-    "apkUrl": "https:\/\/github.com\/RAiD-BY-TBN\/stylen-updates\/releases\/download\/v2.35\/StylenMusics-2.35.apk",
-    "sha256": "00450d696359e6c1f022734da5d6e1e4abaeb19df1240b43f6f14132832cdb26",
-    "size": 7020669,
-    "changelog": "Correções Visuais, Correções de Bugs, Otimizações em geral,  Correção do Modo Sync (Antigo Jam)!.",
-    "force": false,
-    "minVersionCode": 0,
-    "publishedAt": "2026-10-15T05:06:17Z"
-  },
   "infoVersion": "2.29"
 }
