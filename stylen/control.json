@@ -5,7 +5,7 @@
     "enabled": false,
     "message": "Corrigindo bugs, otimizações, exibição de letras entre outros."
   },
-  "updatedAt": "2026-10-23T04:18:38Z",
+  "updatedAt": "2026-10-23T04:18:44Z",
   "announcement": {
     "id": "",
     "title": "",
@@ -68,5 +68,12 @@
     "force": false,
     "minVersionCode": 0,
     "publishedAt": "2026-10-15T05:15:46Z"
+  },
+  "popup": {
+    "enabled": true,
+    "id": "1792729124413",
+    "title": "Próxima Atualização, 23\/10\/26",
+    "message": "",
+    "url": ""
   }
 }
