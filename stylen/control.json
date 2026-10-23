@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "icon": "default",
+  "icon": "graphite",
   "maintenance": {
     "enabled": false,
     "message": "Corrigindo bugs, otimizações, exibição de letras entre outros."
   },
-  "updatedAt": "2026-10-15T05:15:46Z",
+  "updatedAt": "2026-10-23T02:19:32Z",
   "announcement": {
     "id": "",
     "title": "",
